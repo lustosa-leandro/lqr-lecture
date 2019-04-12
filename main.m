@@ -99,3 +99,7 @@ while (1)
         end
     end
 end
+
+%% LQR root locus
+
+lqr_gui(A,B,C,D,Q,R);
